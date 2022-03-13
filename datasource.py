@@ -1,4 +1,4 @@
-class DataSource:
+class Datasource:
 
     file_customers = "customer.txt"
 #Method to ensure that the connection is established to the datasource
