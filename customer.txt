@@ -2,10 +2,12 @@
 111111:Cristin Duplain:19741020:1001:debit account:7500.0#1003:debit account:2400.0
 111112:Blanch Yakovliv:19530317:1002:debit account:9400.0#1004:debit account:2400.0
 111113:Sisile Chadderton:19870328:1005:debit account:1500.0#1011:debit account:300.0
-111114:Frasier Pinnijar:19860928:1006:debit account:7900.0#1008:debit account:100.0
+111114:Frasier Pinnijar:19860928:1006:debit account:7900.0
 111115:Lorraine Elliss:19700114:1009:debit account:4200.0#1011:debit account:3600.0
 111116:Avery Haig:19511001:1010:debit account:1300.0#1010:debit account:800.0
 111117:Jody Spaldin:19730307:1012:debit account:500.0#1034:debit account:0.0
 111118:Julie Kensall:19811023:1012:debit account:25500.0#1013:debit account:3000.0
 111119:Livia MacGibbon:19690225:1014:debit account:1100.0#1019:debit account:360.0
 111120:Kori Burke:19580920:1015:debit account:2800.0#1017:debit account:600.0
+111121:Nani Laddo:19741022:1035:debit account:5000
+
